@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Pokecards/static/css/main.d6150dd2.chunk.css",
+    "main.js": "/Pokecards/static/js/main.f209357e.chunk.js",
+    "main.js.map": "/Pokecards/static/js/main.f209357e.chunk.js.map",
+    "runtime-main.js": "/Pokecards/static/js/runtime-main.d4982461.js",
+    "runtime-main.js.map": "/Pokecards/static/js/runtime-main.d4982461.js.map",
+    "static/js/2.5bea0c2d.chunk.js": "/Pokecards/static/js/2.5bea0c2d.chunk.js",
+    "static/js/2.5bea0c2d.chunk.js.map": "/Pokecards/static/js/2.5bea0c2d.chunk.js.map",
+    "index.html": "/Pokecards/index.html",
+    "static/css/main.d6150dd2.chunk.css.map": "/Pokecards/static/css/main.d6150dd2.chunk.css.map",
+    "static/js/2.5bea0c2d.chunk.js.LICENSE.txt": "/Pokecards/static/js/2.5bea0c2d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4982461.js",
+    "static/js/2.5bea0c2d.chunk.js",
+    "static/css/main.d6150dd2.chunk.css",
+    "static/js/main.f209357e.chunk.js"
+  ]
+}
